@@ -1,0 +1,6 @@
+{
+  "Name": "PhonePricing_Performer",
+  "ProjectType": "Process",
+  "Description": "PhonePricing_Performer_orc",
+  "MainFile": "Main.xaml"
+}
